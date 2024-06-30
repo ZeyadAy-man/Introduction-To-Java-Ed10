@@ -1,1 +1,1 @@
-Welcome to my introduction to java solve
+Hello Java adventurer! Here i'm solving introduction to java book the 10th edition by Daniel_Y_Liang
